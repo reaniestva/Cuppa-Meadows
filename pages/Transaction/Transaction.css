@@ -1,0 +1,47 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Transaction title styling */
+.transaction-title {
+    font-size: 2.5rem; /* Large font size */
+    font-weight: bold; /* Bold font */
+    margin-bottom: 20px; /* Add space below the title */
+  }
+  
+  /* Styling for transaction table */
+  .table {
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  /* Styling for table header */
+  .table th {
+    font-weight: bold; /* Bold font */
+  }
+  
+  /* Styling for table rows */
+  .table td,
+  .table th {
+    vertical-align: middle; /* Center content vertically */
+  }
+  
+  /* Styling for action buttons */
+  .btn-primary,
+  .btn-danger {
+    margin-right: 5px; /* Add space between buttons */
+  }
+  
+  /* Styling for navbar */
+  .navbar {
+    background-color: #90EE90; /* Green Pastel */
+  }
+  
+  /* Styling for navbar links */
+  .navbar-nav .nav-link {
+    color: #333; /* Dark gray color */
+  }
+  
+  /* Styling for logout button */
+  .navbar-nav .btn-outline-dark {
+    margin-left: 10px; /* Add space between buttons */
+  }
+  
